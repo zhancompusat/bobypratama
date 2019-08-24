@@ -1,0 +1,2 @@
+# bobypratama
+remote mikrotik
